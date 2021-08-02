@@ -2,6 +2,10 @@
 
 This plugin serves as the most basic semblance of a fuzzy search with `/` and `?`.
 
+# Demo
+
+[![asciicast](https://asciinema.org/a/425686.svg)](https://asciinema.org/a/425686)
+
 # Configuration
 
 Map like this
